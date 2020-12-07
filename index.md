@@ -26,4 +26,32 @@
 
 <img src="images/carrotshake.png" alt=":carrotshake:" width="40px"/> <img src="images/fastercarrotshake.png" alt=":fastercarrotshake:" width="40px"/> <img src="images/ultrafastcarrotshake.png" alt=":ultrafastcarrotshake:" width="40px"/>
 
+### 뱅드림박수
 
+동료와 친구들을 향한 존경의 마음을 팝핀파 친구들의 진심 어린 박수 이모티콘으로 표현해보세요.
+
+슬랙에서 쉬프트+엔터로 이모지 두 개를 이어붙이면 이미지 사이가 깔끔하게 붙습니다.
+
+#### 카스미
+
+위쪽 하나 아래쪽 하나 해서 이미지 두 장입니다.
+
+<p style="line-height: 0">
+<img src="images/kasumi1.gif" alt=":kasumi1:" width="40px"/><br/><img src="images/kasumi2.gif" alt=":kasumi2:" width="40px"/>
+</p>
+
+#### 리미
+
+위쪽 하나 아래쪽 하나 해서 이미지 두 장입니다.
+
+<p style="line-height: 0">
+<img src="images/rimi1.gif" alt=":rimi1:" width="40px"/><br/><img src="images/rimi2.gif" alt=":rimi2:" width="40px"/>
+</p>
+
+#### 타에
+
+상단 좌측, 상단 우측, 하단 좌측, 하단 우측 이렇게 이미지 네 장 짜리입니다.
+
+<p style="line-height: 0">
+<img src="images/tae1.gif" alt=":tae1:" width="40px"/><img src="images/tae2.gif" alt=":tae2:" width="40px"/><br/><img src="images/tae3.gif" alt=":tae3:" width="40px"/><img src="images/tae4.gif" alt=":tae4:" width="40px"/>
+</p>
