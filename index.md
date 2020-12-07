@@ -20,13 +20,13 @@
 
 ## 이모지
 
-### 지금 고통받고 있으면 당근을 흔들어주세요
+### 🥕 지금 고통받고 있으면 당근을 흔들어주세요 🥕
 
 고통의 세기를 나타내기 쉽도록 세가지 색상으로 제공됩니다.
 
 <img src="images/carrotshake.png" alt=":carrotshake:" width="40px"/> <img src="images/fastercarrotshake.png" alt=":fastercarrotshake:" width="40px"/> <img src="images/ultrafastcarrotshake.png" alt=":ultrafastcarrotshake:" width="40px"/>
 
-### 뱅드림박수
+### 👏 뱅드림박수 👏
 
 동료와 친구들을 향한 존경의 마음을 팝핀파 친구들의 진심 어린 박수 이모티콘으로 표현해보세요.
 
